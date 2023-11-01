@@ -2,6 +2,12 @@
 
     /* custom css */
 
+    .body {
+        font-family: sans-serif;
+        font-family: var(--primary-font);
+        background: var(--secondary-color);
+    }
+
     section{
         padding:30px 0
     }
@@ -55,6 +61,12 @@
 @media (max-width:767px){
 
     /* custom css */
+
+    .body {
+        font-family: sans-serif;
+        font-family: var(--primary-font);
+        background: var(--secondary-color);
+    }
 
     h1{
         font-size: 40px;
